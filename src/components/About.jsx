@@ -13,7 +13,7 @@ const About = () => {
         
 
         <p className="text-xl mt-20 hover:scale-105 duration-200">
-        I'm Adrien - a driven computer science student with a business minor set to graduate UMass Amherst with honors in 2025. I love building full-stack apps with Python, JavaScript, React, and exploring AI/ML.
+        I'm Adrien - a current Technology Analyst at Deutsche Bank. I graduated from UMass Amherst with a computer science major and business minor in 2025. I love building full-stack apps with Python, JavaScript, React, and exploring AI/ML.
 
 I've created CS curriculum, taught coding to kids, and fundraised to bring computer science to underrepresented youth. I have developed projects that have won hackathon awards for innovation and social impact.
         </p>
@@ -21,9 +21,9 @@ I've created CS curriculum, taught coding to kids, and fundraised to bring compu
         <br />
 
         <p className="text-xl hover:scale-105 duration-200">
-        Outside of tech, I enjoy playing rugby, working out, gaming, and listening to EDM. I bring technical skills, business knowledge, and a passion for education to everything I do.
+        Outside of tech, I enjoy playing rugby, working out, gaming, and listening to electronic music. I bring technical skills, business knowledge, and a passion for education to everything I do.
 
-I'm excited to continue creating solutions that empower others. Let's connect!        </p>
+I'm excited to continue creating innovative solutions that make a real world impact. Let's connect!        </p>
       </div>
     </div>
   );

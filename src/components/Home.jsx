@@ -8,7 +8,7 @@ const Home = () => {
                 <div className="flex flex-col justify-center items-center h-full w-full">
                     <h2 className="text-4xl sm:text-5xl font-bold text-white hover:scale-105 duration-200">I'm Adrien Bekker</h2>
                         <p className="text-gray-500 py-4 max-w-lg text-center hover:scale-105 duration-200 font-bold">
-                            Honors Computer Science Major and Business Minor Student at University of Massachusetts Amherst
+                            Technology Analyst at Deutsche Bank UMass Amherst CS Major and Business Minor
                         </p>
 
                     <a href="./AdrienBekkerResume.pdf" target="_blank" download>
